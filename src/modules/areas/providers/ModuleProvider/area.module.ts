@@ -7,6 +7,6 @@ import AreasController from '@modules/areas/infra/http/controllers/AreasControll
 
 @Module({
   imports: [TypeOrmModule.forFeature([Areas])],
-  providers: [AreaResolver, AreasController, CreateAreaService],
+  providers: [CreateAreaService, AreaResolver],
 })
-export default class AreaModule { }
+export class AreaModule { }
