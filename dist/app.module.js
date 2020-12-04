@@ -8,15 +8,16 @@ var __decorate = (this && this.__decorate) || function (decorators, target, key,
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.AppModule = void 0;
 const common_1 = require("@nestjs/common");
-const graphql_1 = require("@nestjs/graphql");
+const typeorm_1 = require("@nestjs/typeorm");
+const area_module_1 = require("./modules/areas/providers/ModuleProvider/area.module");
+const Options = require("./shared/infra/typeorm");
 let AppModule = class AppModule {
 };
 AppModule = __decorate([
     common_1.Module({
         imports: [
-            graphql_1.GraphQLModule.forRoot({
-                autoSchemaFile: '@shared/providers/SchemaProvider/schema.gql',
-            }),
+            typeorm_1.TypeOrmModule.forRoot(Options),
+            area_module_1.default,
         ],
     })
 ], AppModule);

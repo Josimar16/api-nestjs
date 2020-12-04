@@ -4,7 +4,7 @@ import Area from '@modules/areas/infra/typeorm/entities/Area';
 import AreasController from '../controllers/AreasController';
 
 @Resolver('Area')
-export default class AreaResolver {
+export default class AreasResolver {
   constructor(
     private areasController: AreasController,
   ) {}

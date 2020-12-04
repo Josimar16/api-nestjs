@@ -3820,11 +3820,6 @@
         "signature": "8f1241f5d9f0d3d72117768b3c974e462840fbd85026fb66685078945404cf2f",
         "affectsGlobalScope": false
       },
-      "./src/app.module.ts": {
-        "version": "b1b24673e7ea42c623d1cfaa59ceec41a10bcbb8ed15e318bcc17fe10f7a5405",
-        "signature": "b82491e2990291580288c5602d4c017238977749d52b17391f0e45d9a29be644",
-        "affectsGlobalScope": false
-      },
       "./node_modules/typeorm/schema-builder/options/TableColumnOptions.d.ts": {
         "version": "222ebf19b1260582fd2023a65c5b7da77f730021f05afb9c4ead4b0b339a8c98",
         "signature": "222ebf19b1260582fd2023a65c5b7da77f730021f05afb9c4ead4b0b339a8c98",
@@ -5115,54 +5110,49 @@
         "signature": "65916fb178938c9fb2c0588cf5447f5b5de992d50d0e308d6b2169a027fa9dd5",
         "affectsGlobalScope": false
       },
-      "./src/shared/infra/typeorm/index.ts": {
-        "version": "a5b429a9e7f81eb7462d14d2e65391d6c84d228847efad54abb3fae14bc4553d",
-        "signature": "8e609bb71c20b858c77f0e9f90bb1319db8477b13f9f965f1a1e18524bf50881",
+      "./node_modules/@nestjs/typeorm/dist/interfaces/entity-class-or-schema.type.d.ts": {
+        "version": "e15db0d01139d39213a40639352debd92786f311e0421c21ac97c2ca4003a299",
+        "signature": "e15db0d01139d39213a40639352debd92786f311e0421c21ac97c2ca4003a299",
         "affectsGlobalScope": false
       },
-      "./src/shared/errors/AppError.ts": {
-        "version": "f9d9755ebfa97e80e0e782547fd314dc0e534338987c2b075a178df0743277c3",
-        "signature": "e262e181e96e4db90ff2f8e8a48039ffb67602b0d4af8be10accc30f681249af",
+      "./node_modules/@nestjs/typeorm/dist/common/typeorm.decorators.d.ts": {
+        "version": "cd2afab7b5206a624ef3a603568ce42a7c65e7e4958f1c9518b70580523db653",
+        "signature": "cd2afab7b5206a624ef3a603568ce42a7c65e7e4958f1c9518b70580523db653",
         "affectsGlobalScope": false
       },
-      "./src/main.ts": {
-        "version": "1c1809a4a4745131d2cc776542c0b9de2f1082580378b5c2b41e85435cea4517",
-        "signature": "d1740c851f159c151808149ffa5bebdab30927af4c3c91068b0d30e409d14993",
+      "./node_modules/@nestjs/typeorm/dist/common/typeorm.utils.d.ts": {
+        "version": "2682ba5d13c2358a76e5d2a0920503226c720f502d6c5b12dde3b5bcdf7cb53c",
+        "signature": "2682ba5d13c2358a76e5d2a0920503226c720f502d6c5b12dde3b5bcdf7cb53c",
         "affectsGlobalScope": false
       },
-      "./src/config/index.ts": {
-        "version": "37807ce8fcb43a50331d5f7ec885e3ffb0fc76150f79bcf0d8b8cb37de1f083f",
-        "signature": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "./node_modules/@nestjs/typeorm/dist/common/index.d.ts": {
+        "version": "9a7638d62db8cfa1466093d7d413fdf85c5e4a7c663ed76f2bfc8739c8e01505",
+        "signature": "9a7638d62db8cfa1466093d7d413fdf85c5e4a7c663ed76f2bfc8739c8e01505",
         "affectsGlobalScope": false
       },
-      "./src/config/auth/auth.constants.ts": {
-        "version": "89869169380b1bba7ba5f708ea381c0d22d8ee152c0e6958f30e22c2ab3ae83b",
-        "signature": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "./node_modules/@nestjs/typeorm/dist/interfaces/typeorm-options.interface.d.ts": {
+        "version": "67c2337be292ac0b1efd7795b957c1c25cd074ddfe814c36c650ffdaf267750f",
+        "signature": "67c2337be292ac0b1efd7795b957c1c25cd074ddfe814c36c650ffdaf267750f",
         "affectsGlobalScope": false
       },
-      "./src/config/auth/auth.guard.ts": {
-        "version": "76cf8893f1b1b31318c4915b62186c2cd5f50acda2175522d9379742b6feed1f",
-        "signature": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "./node_modules/@nestjs/typeorm/dist/interfaces/index.d.ts": {
+        "version": "c338859b98f8a11f80e3e47e33767299e7a4facdf0870c01c8694fa8fa048d16",
+        "signature": "c338859b98f8a11f80e3e47e33767299e7a4facdf0870c01c8694fa8fa048d16",
         "affectsGlobalScope": false
       },
-      "./src/config/auth/auth.module.ts": {
-        "version": "542187c41653c6f76af067ece13a8376634e4aae52ab7af8435c228f3f219923",
-        "signature": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "./node_modules/@nestjs/typeorm/dist/typeorm.module.d.ts": {
+        "version": "506ddc141d91c4155d39ce3125a92b4636ed10db070c0cfdac7e54376178c30c",
+        "signature": "506ddc141d91c4155d39ce3125a92b4636ed10db070c0cfdac7e54376178c30c",
         "affectsGlobalScope": false
       },
-      "./src/config/auth/jwt.strategy.ts": {
-        "version": "63693f2d6b405d4f1f7483d1dc1dec0775e1c974270c41dc733d18c506e68b4c",
-        "signature": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "./node_modules/@nestjs/typeorm/dist/index.d.ts": {
+        "version": "b113e9770d5be136c5e2add9e6cdf40d85051762ff2391f71d552975e66b1500",
+        "signature": "b113e9770d5be136c5e2add9e6cdf40d85051762ff2391f71d552975e66b1500",
         "affectsGlobalScope": false
       },
-      "./src/config/auth/decorators/current-user.decorator.ts": {
-        "version": "7eb5f8df4f1890811493b2f7803679b2ea682045a2bbaed2d6f1ef7e492bca93",
-        "signature": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-        "affectsGlobalScope": false
-      },
-      "./src/modules/areas/dtos/ICreateAreaDTO.ts": {
-        "version": "e1b4dfe1d51bc954e8ddaf350f782606de374dfa75aeb300e3d6ed071f5aa2ff",
-        "signature": "3d58c75b9e918d1b30399c1cd95fe183f434a8794c70da0d4d2a210ffce9244f",
+      "./node_modules/@nestjs/typeorm/index.d.ts": {
+        "version": "8f1241f5d9f0d3d72117768b3c974e462840fbd85026fb66685078945404cf2f",
+        "signature": "8f1241f5d9f0d3d72117768b3c974e462840fbd85026fb66685078945404cf2f",
         "affectsGlobalScope": false
       },
       "./node_modules/type-graphql/dist/interfaces/ResolverData.d.ts": {
@@ -6280,6 +6270,11 @@
         "signature": "da1aaea5ac80563d593c223808195d8945b053cb73232ad098f1cda98110d48b",
         "affectsGlobalScope": false
       },
+      "./src/modules/areas/dtos/ICreateAreaDTO.ts": {
+        "version": "e1b4dfe1d51bc954e8ddaf350f782606de374dfa75aeb300e3d6ed071f5aa2ff",
+        "signature": "3d58c75b9e918d1b30399c1cd95fe183f434a8794c70da0d4d2a210ffce9244f",
+        "affectsGlobalScope": false
+      },
       "./src/modules/areas/repositories/IAreasRepository.ts": {
         "version": "19ecb49fee4bcef68a067fbd670c629e9ed5e93d89a0cb552902a60de536c9dc",
         "signature": "96bc5f98db7aed532f00fac42d3c7aa79f8383360690d8a28c13e870f1168119",
@@ -6300,59 +6295,64 @@
         "signature": "6350908344e51e306c357c2bf0478a2bf7e3f6de3702fab8a24ac931f92fc003",
         "affectsGlobalScope": false
       },
-      "./src/modules/areas/infra/http/resolvers/areas.resolvers.ts": {
-        "version": "d8a2a25abcee592744fe2aa73cb88e1f1a227a0ea86c40be614b0296799b002e",
-        "signature": "a984beca54a01a89bc44fb725902cd48da174563530c2f793856695862ebeb90",
-        "affectsGlobalScope": false
-      },
-      "./node_modules/@nestjs/typeorm/dist/interfaces/entity-class-or-schema.type.d.ts": {
-        "version": "e15db0d01139d39213a40639352debd92786f311e0421c21ac97c2ca4003a299",
-        "signature": "e15db0d01139d39213a40639352debd92786f311e0421c21ac97c2ca4003a299",
-        "affectsGlobalScope": false
-      },
-      "./node_modules/@nestjs/typeorm/dist/common/typeorm.decorators.d.ts": {
-        "version": "cd2afab7b5206a624ef3a603568ce42a7c65e7e4958f1c9518b70580523db653",
-        "signature": "cd2afab7b5206a624ef3a603568ce42a7c65e7e4958f1c9518b70580523db653",
-        "affectsGlobalScope": false
-      },
-      "./node_modules/@nestjs/typeorm/dist/common/typeorm.utils.d.ts": {
-        "version": "2682ba5d13c2358a76e5d2a0920503226c720f502d6c5b12dde3b5bcdf7cb53c",
-        "signature": "2682ba5d13c2358a76e5d2a0920503226c720f502d6c5b12dde3b5bcdf7cb53c",
-        "affectsGlobalScope": false
-      },
-      "./node_modules/@nestjs/typeorm/dist/common/index.d.ts": {
-        "version": "9a7638d62db8cfa1466093d7d413fdf85c5e4a7c663ed76f2bfc8739c8e01505",
-        "signature": "9a7638d62db8cfa1466093d7d413fdf85c5e4a7c663ed76f2bfc8739c8e01505",
-        "affectsGlobalScope": false
-      },
-      "./node_modules/@nestjs/typeorm/dist/interfaces/typeorm-options.interface.d.ts": {
-        "version": "67c2337be292ac0b1efd7795b957c1c25cd074ddfe814c36c650ffdaf267750f",
-        "signature": "67c2337be292ac0b1efd7795b957c1c25cd074ddfe814c36c650ffdaf267750f",
-        "affectsGlobalScope": false
-      },
-      "./node_modules/@nestjs/typeorm/dist/interfaces/index.d.ts": {
-        "version": "c338859b98f8a11f80e3e47e33767299e7a4facdf0870c01c8694fa8fa048d16",
-        "signature": "c338859b98f8a11f80e3e47e33767299e7a4facdf0870c01c8694fa8fa048d16",
-        "affectsGlobalScope": false
-      },
-      "./node_modules/@nestjs/typeorm/dist/typeorm.module.d.ts": {
-        "version": "506ddc141d91c4155d39ce3125a92b4636ed10db070c0cfdac7e54376178c30c",
-        "signature": "506ddc141d91c4155d39ce3125a92b4636ed10db070c0cfdac7e54376178c30c",
-        "affectsGlobalScope": false
-      },
-      "./node_modules/@nestjs/typeorm/dist/index.d.ts": {
-        "version": "b113e9770d5be136c5e2add9e6cdf40d85051762ff2391f71d552975e66b1500",
-        "signature": "b113e9770d5be136c5e2add9e6cdf40d85051762ff2391f71d552975e66b1500",
-        "affectsGlobalScope": false
-      },
-      "./node_modules/@nestjs/typeorm/index.d.ts": {
-        "version": "8f1241f5d9f0d3d72117768b3c974e462840fbd85026fb66685078945404cf2f",
-        "signature": "8f1241f5d9f0d3d72117768b3c974e462840fbd85026fb66685078945404cf2f",
+      "./src/modules/areas/infra/http/resolvers/area.resolver.ts": {
+        "version": "1ca53c52e783f8b09f097ff6ed2d4087722d73ea1825ef2920342fd165a9472a",
+        "signature": "cc057b5328b906862d6048fbab45d38fb1af926aad6d5c0688a411fe2167340b",
         "affectsGlobalScope": false
       },
       "./src/modules/areas/providers/ModuleProvider/area.module.ts": {
-        "version": "605e8cf7ee729820dc8c5065515a41b51471a09eadc0513bcdc3271a21c41bbf",
+        "version": "60fedabd3c7152a02f503d9ef64c48849d36d1beb16118adfc99031b0a155186",
         "signature": "b239198e9a4216f839acb038ee3ae93b6eaf2b8e166e377873b4603f607c97fd",
+        "affectsGlobalScope": false
+      },
+      "./src/shared/infra/typeorm/index.ts": {
+        "version": "339960aa8745633085fb4fd2f26fe47f9d195c5d416829b0f086c74ac6428aa5",
+        "signature": "8e609bb71c20b858c77f0e9f90bb1319db8477b13f9f965f1a1e18524bf50881",
+        "affectsGlobalScope": false
+      },
+      "./src/app.module.ts": {
+        "version": "da8306101a33ee877f1891eff1fe5db574fa8e66f76be47882888c3ab68508ec",
+        "signature": "b82491e2990291580288c5602d4c017238977749d52b17391f0e45d9a29be644",
+        "affectsGlobalScope": false
+      },
+      "./src/shared/errors/AppError.ts": {
+        "version": "f9d9755ebfa97e80e0e782547fd314dc0e534338987c2b075a178df0743277c3",
+        "signature": "e262e181e96e4db90ff2f8e8a48039ffb67602b0d4af8be10accc30f681249af",
+        "affectsGlobalScope": false
+      },
+      "./src/main.ts": {
+        "version": "6fd3c8e1d902fac1573f564ad93896118afbdbec6cc6fb312e704d5c60f984b7",
+        "signature": "8e609bb71c20b858c77f0e9f90bb1319db8477b13f9f965f1a1e18524bf50881",
+        "affectsGlobalScope": false
+      },
+      "./src/config/index.ts": {
+        "version": "37807ce8fcb43a50331d5f7ec885e3ffb0fc76150f79bcf0d8b8cb37de1f083f",
+        "signature": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "affectsGlobalScope": false
+      },
+      "./src/config/auth/auth.constants.ts": {
+        "version": "89869169380b1bba7ba5f708ea381c0d22d8ee152c0e6958f30e22c2ab3ae83b",
+        "signature": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "affectsGlobalScope": false
+      },
+      "./src/config/auth/auth.guard.ts": {
+        "version": "76cf8893f1b1b31318c4915b62186c2cd5f50acda2175522d9379742b6feed1f",
+        "signature": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "affectsGlobalScope": false
+      },
+      "./src/config/auth/auth.module.ts": {
+        "version": "542187c41653c6f76af067ece13a8376634e4aae52ab7af8435c228f3f219923",
+        "signature": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "affectsGlobalScope": false
+      },
+      "./src/config/auth/jwt.strategy.ts": {
+        "version": "63693f2d6b405d4f1f7483d1dc1dec0775e1c974270c41dc733d18c506e68b4c",
+        "signature": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "affectsGlobalScope": false
+      },
+      "./src/config/auth/decorators/current-user.decorator.ts": {
+        "version": "7eb5f8df4f1890811493b2f7803679b2ea682045a2bbaed2d6f1ef7e492bca93",
+        "signature": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
         "affectsGlobalScope": false
       },
       "./src/modules/areas/repositories/fakes/FakeAreaRepository.ts": {
@@ -12309,21 +12309,23 @@
       ],
       "./src/app.module.ts": [
         "./node_modules/@nestjs/common/index.d.ts",
-        "./node_modules/@nestjs/graphql/index.d.ts"
+        "./node_modules/@nestjs/graphql/index.d.ts",
+        "./node_modules/@nestjs/typeorm/index.d.ts",
+        "./src/modules/areas/providers/ModuleProvider/area.module.ts",
+        "./src/shared/infra/typeorm/index.ts"
       ],
       "./src/main.ts": [
         "./node_modules/@nestjs/core/index.d.ts",
         "./node_modules/@types/express/index.d.ts",
         "./src/app.module.ts",
-        "./src/shared/errors/AppError.ts",
-        "./src/shared/infra/typeorm/index.ts"
+        "./src/shared/errors/AppError.ts"
       ],
       "./src/modules/areas/infra/http/controllers/AreasController.ts": [
         "./src/modules/areas/dtos/ICreateAreaDTO.ts",
         "./src/modules/areas/infra/typeorm/entities/Area.ts",
         "./src/modules/areas/services/CreateAreaService.ts"
       ],
-      "./src/modules/areas/infra/http/resolvers/areas.resolvers.ts": [
+      "./src/modules/areas/infra/http/resolvers/area.resolver.ts": [
         "./node_modules/@nestjs/graphql/index.d.ts",
         "./src/modules/areas/dtos/ICreateAreaDTO.ts",
         "./src/modules/areas/infra/http/controllers/AreasController.ts",
@@ -12344,6 +12346,7 @@
         "./node_modules/@nestjs/common/index.d.ts",
         "./node_modules/@nestjs/typeorm/index.d.ts",
         "./src/modules/areas/infra/http/controllers/AreasController.ts",
+        "./src/modules/areas/infra/http/resolvers/area.resolver.ts",
         "./src/modules/areas/infra/typeorm/entities/Area.ts",
         "./src/modules/areas/services/CreateAreaService.ts"
       ],
@@ -12363,7 +12366,7 @@
         "./src/modules/areas/repositories/IAreasRepository.ts"
       ],
       "./src/shared/infra/typeorm/index.ts": [
-        "./node_modules/typeorm/index.d.ts"
+        "./node_modules/@nestjs/typeorm/index.d.ts"
       ]
     },
     "exportedModulesMap": {
@@ -17792,15 +17795,12 @@
       "./node_modules/zen-observable-ts/lib/zenObservable.d.ts": [
         "./node_modules/zen-observable-ts/lib/types.d.ts"
       ],
-      "./src/main.ts": [
-        "./src/shared/infra/typeorm/index.ts"
-      ],
       "./src/modules/areas/infra/http/controllers/AreasController.ts": [
         "./src/modules/areas/dtos/ICreateAreaDTO.ts",
         "./src/modules/areas/infra/typeorm/entities/Area.ts",
         "./src/modules/areas/services/CreateAreaService.ts"
       ],
-      "./src/modules/areas/infra/http/resolvers/areas.resolvers.ts": [
+      "./src/modules/areas/infra/http/resolvers/area.resolver.ts": [
         "./src/modules/areas/dtos/ICreateAreaDTO.ts",
         "./src/modules/areas/infra/http/controllers/AreasController.ts",
         "./src/modules/areas/infra/typeorm/entities/Area.ts"
@@ -19186,7 +19186,7 @@
       "./src/main.ts",
       "./src/modules/areas/dtos/ICreateAreaDTO.ts",
       "./src/modules/areas/infra/http/controllers/AreasController.ts",
-      "./src/modules/areas/infra/http/resolvers/areas.resolvers.ts",
+      "./src/modules/areas/infra/http/resolvers/area.resolver.ts",
       "./src/modules/areas/infra/typeorm/entities/Area.ts",
       "./src/modules/areas/infra/typeorm/repositories/AreasRepository.ts",
       "./src/modules/areas/providers/ModuleProvider/area.module.ts",
