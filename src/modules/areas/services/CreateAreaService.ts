@@ -8,7 +8,7 @@ interface IRequest {
 }
 
 @Injectable()
-export default class AreaService {
+export default class CreateAreaService {
   constructor(
     @Inject(AreasRepository)
     private areasRepository: IAreasRepository,
